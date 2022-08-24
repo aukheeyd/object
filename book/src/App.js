@@ -4,7 +4,7 @@ import BookTable from './Component/BookTable';
 function App() {
   return (
     <div className="App">
-      <BookTable/>
+      <BookTable />
     </div>
   );
 }
